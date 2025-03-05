@@ -1,0 +1,38 @@
+{
+  "mainTitle": "Kerem Döleksöz",
+  "nav": {
+    "main": "Ana Sayfa",
+    "about": "Hakkımda",
+    "contact": "İletişim"
+  },
+  "about": {
+    "title": "Merhaba!",
+    "description": "Benim adım Kerem Döleksöz. 22 yaşındayım ve bilgisayar mühendisliği okuyorum. Kodlama dünyasına olan merakım ve problem çözme tutkumu birleştirerek teknoloji alanında yer almak istiyorum. Yazılım ve donanımın birleştiği bir dünyada kariyerime katkıda bulunmayı hedefliyorum.",
+    "buttonText": "Hakkımda"
+  },
+  "aboutMePage": {
+    "title": "Hakkımda",
+    "inSummary": "Özetle",
+    "aboutMeText1": "Merhaba, ben Kerem Döleksöz. 14 Şubat 2003 tarihinde Sivas'ta doğdum. Teknolojiye ve mühendisliğe olan ilgim, mühendis bir babaya sahip olmam nedeniyle çocukluk yıllarımda başladı. Bu ilgi, Sivas Bahçeşehir Fen Lisesi'nde eğitim aldığım dönemde, özellikle STEM Laboratuvarı'nda katıldığım robotik dersleri sayesinde daha da pekişti. Üniversite tercihimde, mühendislik ve yazılım geliştirme tutkumu ileriye taşımak adına Ankara Medipol Üniversitesi Bilgisayar Mühendisliği bölümünü seçtim.",
+    "aboutMeText2": "Üniversite eğitimim süresince Java ağırlıklı bir müfredat takip ettim ve nesne yönelimli programlama, algoritma geliştirme gibi konularda yetkinlik kazandım. Ancak yazılım dünyasının geniş perspektifini daha iyi anlamak adına okul dışında da çalışmalar yaptım.  Arduino tabanlı projeler geliştirdim ve yazılım ile donanımı bir araya getiren uygulamalar üzerinde çalıştım.",
+    "aboutMeText3" : "Teknik ve sosyal gelişimimi desteklemek adına öğrenci topluluklarında da aktif rol aldım. Google Developer Students Club (GDSC)'de Core Team Member olarak yer alarak, yazılım ekosisteminde takım çalışması ve topluluk bilinci edinme fırsatı buldum.",
+    "aboutMeText4": "2024 yazında, sağlık bilişimi alanında faaliyet gösteren Sisoft Sağlık Bilişim Sistemleri şirketinde staj yaptım. Bu süreçte Java, Flutter ve React.js teknolojileriyle çeşitli projelerde yer alarak web ve mobil uygulama geliştirme üzerine deneyim kazandım.",
+    "aboutMeText5":"Şu anda, Teknofest 2025 Uluslararası Efficiency Challenge Elektrikli Araç Yarışları kapsamında MAGE takımında Yazılım Takımı Kaptanı olarak görev alıyorum. Bu projede, otonom sistemlere yönelik ADAS (İleri Sürücü Destek Sistemleri) fonksiyonlarının geliştirilmesi üzerine çalışıyor ve Python, görüntü işleme ve yapay zeka teknolojileriyle kendimi geliştirmeye devam ediyorum.",
+    "aboutMeText6":"Sadece akademik ve teknik gelişime odaklanmak yerine, farklı kültürleri deneyimlemenin ve küresel bir bakış açısı kazanmanın da önemli olduğuna inanıyorum. Bu nedenle, 2022 yazında Work and Travel programına katılarak yaklaşık 4 ay boyunca Amerika Birleşik Devletleri'nde, Colorado eyaletinde çalıştım. Bu deneyim, İngilizce dil yetkinliğimi geliştirmemi sağlarken, iş tecrübesi kazanmama ve farklı eyaletleri keşfederek hayat perspektifimi genişletmeme olanak sundu. Ayrıca, Fransa, Lüksemburg, Belçika, Hollanda, İspanya, İtalya ve Yunanistan gibi ülkeleri ziyaret ederek farklı kültürleri tanıma fırsatı buldum.",
+    "thanks": "Teknolojiye ve mühendisliğe olan ilgim, beni sürekli olarak yeni şeyler öğrenmeye ve kendimi geliştirmeye yönlendiriyor. Kendi adımı taşıyan ve tamamen kendim geliştirdiğim bu site, yolculuğumu sizlerle paylaşmamı sağlıyor.",
+    "bestRegards": "Saygılarımla,",
+    "keremDoleksoz": "Kerem Döleksöz"
+  },
+  
+    "contactPage": {
+      "title": "İletişim",
+      "description": "Benimle aşağıdaki iletişim bilgileri üzerinden iletişime geçebilirsiniz.",
+      "emailLabel": "E-posta",
+      "location" : "Ankara, Türkiye"
+    },
+
+  
+  "footer": {
+    "text": "© 2025 Kerem Döleksöz - MIT Lisansı ile yayınlanmıştır."
+  }
+}

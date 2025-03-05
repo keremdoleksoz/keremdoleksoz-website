@@ -1,0 +1,37 @@
+{
+  "mainTitle": "Kerem Döleksöz",
+  "nav": {
+    "main": "Main Page",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "Hello!",
+    "description": "My name is Kerem Döleksöz. I am 22 years old and studying computer engineering. Fueled by my curiosity for the world of coding and my passion for problem-solving, I aspire to step into the realm of technology. In a world where software and hardware intertwine, I aim to contribute to my career.",
+    "buttonText": "About Me"
+  },
+  "aboutMePage": {
+    "title": "About Me",
+    "inSummary": "In summary",
+    "aboutMeText1": "Hello, I am Kerem Döleksöz. I was born on February 14, 2003, in Sivas. My interest in technology and engineering began in my childhood, influenced by my father, who is an engineer. This passion grew stronger during my education at Sivas Bahçeşehir Science High School, especially through the robotics courses I attended in the STEM Laboratory. For my university education, I chose Ankara Medipol University’s Computer Engineering program to further pursue my passion for engineering and software development.",
+    "aboutMeText2": "During my university years, I followed a Java-focused curriculum, gaining proficiency in object-oriented programming, algorithm development, and software engineering concepts. However, to broaden my understanding of the software industry, I also worked on projects outside of school. I developed Arduino-based projects, integrating software and hardware to create various applications.",
+    "aboutMeText3": "To support both my technical and social development, I actively participated in student communities. As a Core Team Member at Google Developer Students Club (GDSC), I had the opportunity to gain experience in teamwork and community-driven software development.",
+    "aboutMeText4": "In the summer of 2024, I completed an internship at Sisoft Health Information Systems, a company operating in the health informatics sector. During my time there, I worked on various projects involving Java, Flutter, and React.js, gaining experience in web and mobile application development.",
+    "aboutMeText5": "Currently, I am serving as the Software Team Captain of the MAGE team for the Teknofest 2025 International Efficiency Challenge Electric Vehicle Competition. In this project, I am focusing on the development of ADAS (Advanced Driver Assistance Systems) functions, working with Python, computer vision, and artificial intelligence technologies to enhance my expertise in autonomous systems.",
+    "aboutMeText6":"I believe that personal growth should extend beyond academic and technical development. To gain a global perspective and experience different cultures, I participated in the Work and Travel program in the summer of 2022. I spent approximately four months working in Colorado, United States, where I improved my English proficiency, gained work experience, and explored various states, broadening my life perspective. Additionally, I traveled to several European countries, including France, Luxembourg, Belgium, the Netherlands, Spain, Italy, and Greece, which allowed me to experience and appreciate diverse cultures.",
+    "thanks": "My passion for technology and engineering constantly drives me to learn new things and improve myself. This website, which I have entirely designed and developed myself, serves as a way to showcase my journey.",
+    "bestRegards": "Best regards,",
+    "keremDoleksoz": "Kerem Döleksöz"
+  },
+
+    "contactPage": {
+      "title": "Contact",
+      "description": "You can reach me using the following contact details.",
+      "emailLabel": "E-mail",
+      "location" : "Ankara, Turkey"
+    },
+  
+  "footer": {
+    "text": "© 2025 Kerem Döleksöz - Published under the MIT License."
+  }
+}

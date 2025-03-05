@@ -1,0 +1,40 @@
+/* Sayfa genel düzeni */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Tüm ekranı kapsaması için */
+}
+
+/* Tüm sayfa için arka plan */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: url('./Icons/background.jpg') repeat; /* Arka plan resmi tekrar eder */
+  background-size: auto; /* Resmin boyutu varsayılan */
+  background-color: #f0f4f8; /* Yedek renk (resim yüklenmezse görünür) */
+  color: #333; /* Varsayılan metin rengi */
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1; /* İçeriğin tam yüksekliği doldurmasını sağlar */
+  min-height: 100vh; /* Sayfa yüksekliğini tam ekran yapar */
+}
+
+.main-content {
+  flex: 1; /* İçeriğin fazla alanı doldurmasını sağlar */
+}
+
+/* Footer */
+.footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 14px;
+  color: #6c757d;
+  border-top: 1px solid #dee2e6;
+  width: 100%;
+}

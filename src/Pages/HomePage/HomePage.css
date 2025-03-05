@@ -1,0 +1,80 @@
+/* Ana Konteyner */
+.about {
+    display: flex;
+    justify-content: space-between; /* İçerik ve görsel arasında boşluk */
+    align-items: center; /* Dikey ortalama */
+    max-width: 1200px; /* Maksimum genişlik */
+    margin: 70px auto; /* Üst ve alt boşluk */
+    padding: 40px; /* İçerik kenar boşluğu */
+    background-color: #fff; /* Beyaz arka plan */
+    border-radius: 15px; /* Yuvarlak köşeler */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+    gap: 40px; /* Metin ve görsel arasındaki boşluk */
+}
+
+
+/* İçerik Düzeni */
+.about-content {
+    display: flex;
+    flex-direction: row; /* Yazı solda, fotoğraf sağda */
+    align-items: center;
+    gap: 30px; /* Yazı ve görsel arasındaki boşluk */
+}
+
+/* Metin Alanı */
+.about-text {
+    flex: 2; /* Metin alanını genişletir */
+    position: relative; /* Butonun konumunu belirlemek için gerekli */
+    font-family: 'Georgia', serif;
+    color: #333; /* Koyu gri renk */
+}
+
+/* Başlık ve Açıklama Gruplama */
+.text-content {
+    margin-bottom: 20px; /* Başlık ve açıklama altına boşluk */
+}
+
+/* Başlık */
+.title {
+    font-size: 36px; /* Büyük başlık */
+    font-weight: bold;
+    color: #2c3e50; /* Koyu bir ton */
+    margin-bottom: 10px; /* Başlık ve açıklama arasında boşluk */
+}
+
+/* Açıklama */
+.description {
+    font-size: 18px; /* Okunaklı metin boyutu */
+    line-height: 1.8; /* Satır yüksekliği */
+    color: #4b5563; /* Hafif gri */
+}
+
+/* Buton Alanı */
+.about-button-container {
+    position: absolute; /* Konumu ayarlamak için gerekli */
+    bottom: 0; /* Yazı alanının altına hizala */
+    right: 0; /* Yazı alanının sağına hizala */
+    transform: translate(-10%, -10%); /* Hafif bir ofset */
+}
+
+/* Görsel */
+.about-image {
+    flex: 1; /* Görsel alanını sabitler */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-image img {
+    max-width: 100%; /* Görsel genişliği kapsayıcıya uyar */
+    max-height: 400px; /* Maksimum görsel yüksekliği */
+    border-radius: 15px; /* Hafif yuvarlatılmış köşeler */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.about-image img:hover {
+    transform: scale(1.05); /* Hafif büyüme efekti */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Daha belirgin gölge */
+}

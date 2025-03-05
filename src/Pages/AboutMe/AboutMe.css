@@ -1,0 +1,31 @@
+.aboutMePage {
+  max-width: 800px;
+  margin: 70px auto; /* Üst-alt boşluk 70px */
+  padding: 40px; /* Geniş içerik kenar boşluğu */
+  background-color: #fff; /* Beyaz arka plan */
+  border-radius: 15px; /* Yuvarlatılmış köşeler */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Belirgin gölge efekti */
+  font-family: 'Georgia', serif; /* Ana sayfadaki ile uyumlu font */
+  line-height: 1.8; /* Daha ferah satır yüksekliği */
+}
+
+.aboutMePage h1 {
+  font-size: 36px; /* Büyük başlık boyutu */
+  font-weight: bold;
+  color: #2c3e50; /* Koyu ton */
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.aboutMePage h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.aboutMePage p {
+  font-size: 18px; /* Okunaklı metin boyutu */
+  color: #4b5563;
+  margin-bottom: 20px;
+}

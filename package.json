@@ -2,6 +2,7 @@
   "name": "keremdoleksoz-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@svgr/plugin-svgo": "^8.1.0",
     "cra-template": "1.2.0",
